@@ -1,0 +1,2 @@
+DrissionPage~=4.1.1.2
+mitmproxy~=12.1.2
